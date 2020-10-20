@@ -21,10 +21,7 @@ tags:
 Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
 
 
-
-<p class="codepen" data-height="298" data-theme-id="light" data-default-tab="html,result" data-user="alkinoospitsinis" data-slug-hash="pobbpyK" style="height: 298px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="pobbpyK">
-  <span>See the Pen <a href="https://codepen.io/alkinoospitsinis/pen/pobbpyK">
-  pobbpyK</a> by alkinoospitsinis p2019234 (<a href="https://codepen.io/alkinoospitsinis">@alkinoospitsinis</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height="265" style="width: 100%;" scrolling="no" title="pobbpyK" src="https://codepen.io/alkinoospitsinis/embed/pobbpyK?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/alkinoospitsinis/pen/pobbpyK'>pobbpyK</a> by alkinoospitsinis p2019234
+  (<a href='https://codepen.io/alkinoospitsinis'>@alkinoospitsinis</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
