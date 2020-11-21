@@ -21,4 +21,7 @@ tags:
 Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
 
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="pobbpyK" src="https://codepen.io/alkinoospitsinis/embed/pobbpyK?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"> See the Pen pobbpyK by alkinoospitsinis p2019234 (@alkinoospitsinis) on CodePen. </iframe>
+<iframe height="265" style="width: 100%;" scrolling="no" title="pobbpyK" src="https://codepen.io/alkinoospitsinis/embed/pobbpyK?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/alkinoospitsinis/pen/pobbpyK'>pobbpyK</a> by alkinoospitsinis p2019234
+  (<a href='https://codepen.io/alkinoospitsinis'>@alkinoospitsinis</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
