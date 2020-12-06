@@ -18,3 +18,8 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάστε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα).
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="OJRNEQb" src="https://codepen.io/alkinoospitsinis/embed/OJRNEQb?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/alkinoospitsinis/pen/OJRNEQb'>OJRNEQb</a> by alkinoospitsinis p2019234
+  (<a href='https://codepen.io/alkinoospitsinis'>@alkinoospitsinis</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
