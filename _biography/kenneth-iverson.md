@@ -10,3 +10,5 @@ tags:
   - Kenneth Iverson
   - APL
 ---
+
+{% include_relative bio-kenneth-iverson.md %}
